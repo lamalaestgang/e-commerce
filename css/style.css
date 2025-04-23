@@ -1,0 +1,22 @@
+p,a {
+    text-decoration: none;
+
+}
+
+.center-content {
+    display: flex;
+    text-align: justify;
+}
+
+.bord {
+    border-width: 3px;
+    border-style: double;
+    padding: 1px;
+}
+
+a.nav-link {
+    color: white;
+}
+td,th{
+    text-align: left;
+}
